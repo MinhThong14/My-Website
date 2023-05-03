@@ -1,12 +1,17 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - MinhThong14
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - MinhThong14/MIT-6.5840-Distributed-System
+  - MinhThong14/Computer-Vision
+  - MinhThong14/Chess-AI
+  - MinhThong14/Cranial-Electrical-Stimulation-Device-Simulator
+  - MinhThong14/The-movie-database
+  - MinhThong14/Smart-Botanics
+  - MinhThong14/The-Shoppies
+  - MinhThong14/Comp2401
+  - MinhThong14/Comp2402
+  - MinhThong14/Todo-List
+
+
+

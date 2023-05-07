@@ -24,7 +24,7 @@
       year: Sept 2022 - Apr 2023
       description:
         - Participated to API standards refactoring discussions within integration team applying proof of concept of API schema validation using OpenApi specification; ensuring internal and external APIs are consistent and readable
-        - Applyed new dark mode and light mode designs to the current UI using Vue and SCSS variables; improving monthly active users by 11%
+        - Applied new dark mode and light mode designs to the current UI using Vue and SCSS variables; improving monthly active users by 11%
         - Developed and deployed features' flag management service by creating user interface and API end points using PHP, Laravel, Docker and AWS; helping 16 team members efficiently manage development process
     - title: Data Analyst Co-op
       institution: Innovapost

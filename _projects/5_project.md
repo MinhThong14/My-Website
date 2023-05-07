@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Smart Botanics
+description: An automatic sytem that allows users to take care of their plants remotely and conveniently over the internet, implemented by HTML, JavaScript, PHP
+img: assets/img/3.jpg
+redirect: https://github.com/MinhThong14/Smart-Botanics
+importance: 5
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Med Device Simulator
-description: A project that simulates a medical device, participated in an agile team of 3 students, using C++, QT, Behavioral Pattern
-img: assets/img/med-device.jpg
-redirect: https://github.com/MinhThong14/Cranial-Electrical-Stimulation-Device-Simulator
+title: project 4
+description: another without an image
+img:
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

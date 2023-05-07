@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: The movie database
+description: A full stack Movie Database web application using Javascript, Node.js, Express.js, MongoDB applying E2E testing, achieved a grade of 95%
+img: assets/img/movie-database.png
+redirect: https://github.com/MinhThong14/The-movie-database
+importance: 4
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

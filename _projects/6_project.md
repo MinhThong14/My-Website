@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Emulation of IOT
+description: A program to emulate an IoT system using software processes and system calls for inter-process communications (IPCs)
+img: assets/img/iot-emulation.jpeg
+redirect: https://github.com/MinhThong14/IOL-Emulation
+importance: 6
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

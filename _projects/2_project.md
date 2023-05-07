@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: COMP 3106 Chess AI
+description: A full stack web application with AI integration that allows users play chess with smart engine, using Python, Flask, React, Agile Methodology
+img: assets/img/chess-ai.jpeg
+redirect: https://github.com/MinhThong14/Chess-AI
 importance: 2
 category: work
 ---

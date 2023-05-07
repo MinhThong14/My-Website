@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I have chances to work as a Teaching Assistant in a wide range of courses at Carleton University School of Computer Science.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+---
+## Teaching
+* <b>[2023 Summer]</b> Teaching Assistant, Carleton University COMP 2404: Introduction to Software Engineer
+* <b>[2022 Winter]</b> Teaching Assistant, Carleton University COMP 2804: Discrete Structure II
+* <b>[2021 Winter]</b> Teaching Assistant, Carleton University COMP 2804: Discrete Structure II
+* <b>[2020 Fall]</b> Teaching Assistant, Carleton University COMP 2804: Discrete Structure II
 
-Organize your courses by years, topics, or universities, however you like!

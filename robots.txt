@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: minhthongmai.com/about/sitemap.xml
+Sitemap: https://minhthongmai.com/about/sitemap.xml

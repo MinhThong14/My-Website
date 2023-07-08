@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Med Device Simulator
-description: A project that simulates a medical device, participated in an agile team of 3 students, using C++, QT, Behavioral Pattern
-img: assets/img/med-device.jpg
-redirect: https://github.com/MinhThong14/Cranial-Electrical-Stimulation-Device-Simulator
-importance: 3
+title: Smart Botanics
+description: An automatic sytem that allows users to take care of their plants remotely and conveniently over the internet, implemented by HTML, JavaScript, PHP
+img: assets/img/3.jpg
+redirect: https://github.com/MinhThong14/Smart-Botanics
+importance: 8
 category: work
 ---
 

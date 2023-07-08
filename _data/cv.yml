@@ -14,18 +14,30 @@
       year: 2023
       description:
         - Honour Bachelor of Computer Science Co-op
-        - CGPA 11.63/12 (A+)
+        - CGPA 11.65/12 (A+)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Software Developer Co-op
+    - title: Teaching Assistant
+      institution: Carleton University
+      year: May 2023 - Current
+      description:
+        - Running weekly course's tutorials helping 140 students to learn materials of C++ and OOP
+        - Grading and providing constructive criticism for students’ assignments and tests
+    - title: Software Developer Co-op (Full Stack)
       institution: Knak
-      year: Sept 2022 - Apr 2023
+      year: Jan 2023 - Apr 2023
       description:
         - Participated to API standards refactoring discussions within integration team applying proof of concept of API schema validation using OpenApi specification; ensuring internal and external APIs are consistent and readable
-        - Applied new dark mode and light mode designs to the current UI using Vue and SCSS variables; improving monthly active users by 11%
-        - Developed and deployed features' flag management service by creating user interface and API end points using PHP, Laravel, Docker and AWS; helping 16 team members efficiently manage development process
+        - Developed and deployed features’ flag management service by creating user interface and API end points using PHP, Laravel, Docker and AWS (EC2, S3); helping 16 team members efficiently manage development process
+        - Applied Kubernetes custom controllers and resources to predict future load during pod scaling; reduced users’ wait times by 10-15 seconds
+    - title: Software Developer Co-op (Frontend)
+      institution: Knak
+      year: Sept 2022 - Dec 2022
+      description:
+        - Implemented and tested new dark mode and light mode designs to the current UI using Vue, SCSS variables and E2E testing methodology; improving monthly active users by 11%
+        - Integrated brands’ colours from user assets to TinMCE, a WYSIWYG text editor using Vue, Typescript, HTML, CSS; helped company won 3 new contracts with big-techs including Google, Amazon and Stripe
     - title: Data Analyst Co-op
       institution: Innovapost
       year: Apr 2022 - Aug 2022
@@ -33,14 +45,25 @@
         - Designed and implemented data model for a data catalog project using ER modelling; improved the data consistency and maintainability, served 100+ data analysts across the entire Canada Post group of companies
         - Converted existing technical design spreadsheets from Confluence to metadata intake standard using Python, Pandas; resulted in a consistent source for the next phase of the project
         - Automated the data loading pipeline system to the database using Python and TearadataSQL library; increased the accuracy and processing time of initial loads and ongoing updates from few hours to under 1 minute
-    - title: Tooling and Performance Co-op
+    - title: Teaching Assistant
+      institution: Carleton University
+      year: Jan 2022 - Apr 2022
+      description:
+        - Hosted weekly office hours to help professors guide more than 200 students through materials of discrete math including counting, proving techniques and probabilities
+        - Solved and reviewed assignments' solutions that helped professors prepare final solution released to students
+    - title: Backend Developer (Tooling and Performance Co-op)
       institution: Nokia
-      year: May 2021 - Dec 2021
+      year: Sept 2021 - Dec 2021
+      description:
+        - Debugged URLs’ fetching errors when doing tests in the server running on Linux environment; increased the number of passed test from around 60% to over 85%
+        - Converted PowerShell script that fetches data from Azure Service to Python with a distributed crawling system integration, then containerized it using Docker; optimized running time by 90 times (from 45 mins to 45 secs)
+    - title: Frontend Developer (Tooling and Performance Co-op)
+      institution: Nokia
+      year: May 2021 - Aug 2021
       description:
         - Made login by Azure AD on Nokia Application Monitoring Platform (NAMP) more prominent by modifying the default login page of Grafana written in React; increased the attention of users to Azure login option by 90%
-        - Created auto-enrollment dashboard in NAMP user interface using Javascript, Python, Flask and SQL allowing a user to edit an application's information directly; decreased processing time from 1 day to few minutes
-        - Debugged URLs' fetching errors when doing tests in a server running in Linux environment; improved the percentage of passed tests from around 60% to over 85%
-        - Converted PowerShell script that fetches data from Azure Service to Python with a distributed crawling system integration, then containerized it using Docker; optimized running time by 90 times (from 45 mins to 45 secs)
+        - Created auto-enrollment dashboard in NAMP user interface using Javascript, Python, Flask and SQL allowing a user to edit an application’s information directly; decreased processing time from 1 day to few minutes
+        - Visualized max, min, avg running time of servers on clusters using Grafana, Javascript, SQL; helped the team realizes the changes and incidents of an server over a chosen time range, so rose the reliable of the system
     - title: Software Developer Volunteer
       institution: CU Blueprint
       year: Sept 2021 - Dec 2021
@@ -48,9 +71,10 @@
         - Participated in an Agile team of 8 developers, building a CRM web application for a non-profit organization using React, TypeScript and CSS, building a user-friendly UI; improved their service processing time by 90%
     - title: Teaching Assistant
       institution: Carleton University
-      year: Sept 2020 - Current
+      year: Sept 2020 - Apr 2021
       description:
-        - Organized weekly office hours to help professors guide more than 1500 students through materials of discrete math, C++ and OOP, graded and provided constructive criticism for students' assignments and tests
+        - Organizing weekly office hours to help professors guide more than 1000 students through materials  of discrete math
+        - Marked and answered students’ questions about assignments and tests
 
 # - title: Open Source Projects
 #   type: time_table

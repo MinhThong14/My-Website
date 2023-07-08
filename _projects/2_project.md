@@ -1,9 +1,9 @@
 ---
 layout: page
-title: COMP 3106 Chess AI
-description: A full stack web application with AI integration that allows users play chess with smart engine, using Python, Flask, React, Agile Methodology
-img: assets/img/chess-ai.jpeg
-redirect: https://github.com/MinhThong14/Chess-AI
+title: Distributed System
+description: A graduate course in Distributed System, MIT 6.5840. There are 4 labs in the course that I need to implement the rest based on the logic provided. 
+img: assets/img/distributed-systems.png
+redirect: https://github.com/MinhThong14/MIT-6.5840-Distributed-System
 importance: 2
 category: work
 ---

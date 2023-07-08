@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Med Device Simulator
-description: A project that simulates a medical device, participated in an agile team of 3 students, using C++, QT, Behavioral Pattern
-img: assets/img/med-device.jpg
-redirect: https://github.com/MinhThong14/Cranial-Electrical-Stimulation-Device-Simulator
-importance: 6
+title: The movie database
+description: A full stack Movie Database web application using Javascript, Node.js, Express.js, MongoDB applying E2E testing, achieved a grade of 95%
+img: assets/img/movie-database.png
+redirect: https://github.com/MinhThong14/The-movie-database
+importance: 7
 category: work
 ---
 

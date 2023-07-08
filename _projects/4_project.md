@@ -1,25 +1,12 @@
 ---
 layout: page
-title: The movie database
-description: A full stack Movie Database web application using Javascript, Node.js, Express.js, MongoDB applying E2E testing, achieved a grade of 95%
-img: assets/img/movie-database.png
-redirect: https://github.com/MinhThong14/The-movie-database
+title: Computer Vision
+description: Assigments and Projects in COMP 4102 Computer Vision at Carleton University, using Python, Convolutional Neural Network
+img: assets/img/computer-vision.jpeg
+redirect: https://github.com/MinhThong14/Computer-Vision
 importance: 4
 category: work
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

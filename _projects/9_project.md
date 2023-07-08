@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Med Device Simulator
-description: A project that simulates a medical device, participated in an agile team of 3 students, using C++, QT, Behavioral Pattern
-img: assets/img/med-device.jpg
-redirect: https://github.com/MinhThong14/Cranial-Electrical-Stimulation-Device-Simulator
-importance: 6
+title: Emulation of IOT
+description: A program to emulate an IoT system using software processes and system calls for inter-process communications (IPCs)
+img: assets/img/iot-emulation.jpeg
+redirect: https://github.com/MinhThong14/IOL-Emulation
+importance: 9
 category: work
 ---
 

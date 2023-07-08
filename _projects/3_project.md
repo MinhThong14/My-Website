@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Med Device Simulator
-description: A project that simulates a medical device, participated in an agile team of 3 students, using C++, QT, Behavioral Pattern
-img: assets/img/med-device.jpg
-redirect: https://github.com/MinhThong14/Cranial-Electrical-Stimulation-Device-Simulator
+title: Productive Tracker
+description: A simple productivity tracker application in which we can record what activities we accomplished during the day and for how much time
+img: assets/img/clock.jpg
+redirect: https://github.com/MinhThong14/Productive-Tracker
 importance: 3
 category: work
 ---

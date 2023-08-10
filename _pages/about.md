@@ -6,7 +6,7 @@ subtitle: Honours Bachelor of Computer Science, Carleton University
 
 profile:
   align: right
-  image: minh-thong-mai.jpg
+  image: minh-thong.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Ottawa, ON, Canada</p>

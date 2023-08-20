@@ -36,7 +36,7 @@
       year: Sept 2022 - Dec 2022
       description:
         - Built new dark/light mode feature using Vue, SCSS and E2E test, improved monthly active users by 11%
-        - Integrated brands’ colours from user assets to TinMCE using Vue, realized an estimated new contracts of $350,000
+        - Integrated brands’ colours from user assets to TinyMCE using Vue, realized an estimated new contracts of $350,000
     - title: Data Analyst Co-op
       institution: Innovapost
       year: Apr 2022 - Aug 2022

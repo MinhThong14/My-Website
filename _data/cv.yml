@@ -30,7 +30,7 @@
       year: Jan 2023 - Apr 2023
       description:
         - Reduced users’ wait times by 10-15 secs by applying K8s custom controllers and resources to predict future load
-        - Developed & deployed features’ flag management service to AWS S3 using PHP, Laravel, Docker, used by 16+ users
+        - Developed & deployed features’ flag management service to AWS S3 using PHP, Laravel, Docker
     - title: Software Developer Co-op (Frontend)
       institution: Knak
       year: Sept 2022 - Dec 2022
@@ -54,7 +54,7 @@
       institution: Nokia
       year: Sept 2021 - Dec 2021
       description:
-        - Proposed & utilized distributed crawling system to optimize data fetching scripts from Azure service using Python, resulted in an additional of 70% performance gain
+        - Proposed & utilized distributed system to optimize data fetching scripts from Azure service using Python, resulted in an additional of 70% performance gain
         - Debugged URL’s fetching errors on Linux server, rose unit tests coverage by 15%
     - title: Frontend Developer (Tooling and Performance Co-op)
       institution: Nokia

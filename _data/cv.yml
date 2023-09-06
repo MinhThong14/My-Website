@@ -21,7 +21,18 @@
   contents:
     - title: Teaching Assistant
       institution: Carleton University
-      year: May 2023 - Current
+      year: Fall 2023 - Current
+      description:
+        - Hosting weekly office hours helping 160 students to learn materials of Data Structures and Algorithms using Java
+        - Conducting and recording online workshops explaining assignments' specification and solution to students
+    - title: Research Assistant
+      institution: Carleton University
+      year: Fall 2023 - Current
+      description:
+        - Extending & optimizing Quantum Permutation Pad (QPP) algorithm using Python, Qiskit to enrich the randomly dispatching procedure, resulting in successful Quantum encryption and decryption consisting of n-qubit permutation gates
+    - title: Teaching Assistant
+      institution: Carleton University
+      year: May 2023 - Aug 2023
       description:
         - Running weekly course's tutorials helping 140 students to learn materials of C++ and OOP
         - Grading and providing constructive criticism for students’ assignments and tests
@@ -54,15 +65,14 @@
       institution: Nokia
       year: Sept 2021 - Dec 2021
       description:
-        - Proposed & utilized distributed system to optimize data fetching scripts from Azure service using Python, resulted in an additional of 70% performance gain
-        - Debugged URL’s fetching errors on Linux server, rose unit tests coverage by 15%
+        - Utilized distributed system to optimize data fetching scripts from Azure service, reduced running time by 95% from 45 mins to 1 min
+        - Debugged URL’s fetching errors on Linux server, increased unit tests coverage from 65% to 80%
     - title: Frontend Developer (Tooling and Performance Co-op)
       institution: Nokia
       year: May 2021 - Aug 2021
       description:
-        - Customized login page UI using React, increased the attention of users to Azure login option by 25%
-        - Built an auto-enrollment service allowing users to edit applications’ info directly using Javascript, Python, Flask and SQL, decreased average support time by 70%
-        - Created live visualization dashboard in Grafana to monitor servers’ performance using Javascript, SQL, provided visibility into the performance of servers in clusters
+        - Built enrollment service allowing users to edit info directly using Javascript, Python, Flask, SQL, decreased avg support time by 70%
+        - Created live visualization dashboard in Grafana to monitor servers’ performance, provided visibility into clusters’ performance
     - title: Software Developer Volunteer
       institution: CU Blueprint
       year: Sept 2021 - Dec 2021
